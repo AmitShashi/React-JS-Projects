@@ -7,3 +7,14 @@ link: https://amit-text-analyzer.netlify.app
 Screenshot:
 --------------------------------------------------------------------------------------------------------------------
 ![screenshot](https://user-images.githubusercontent.com/73923245/210802657-d9f928d1-32f4-4bef-8bd2-9929e810a0b7.JPG)
+
+App 2 - My Notebook - FULLSTACK MERN PROJECT
+--------------------------------------------------------------------------------------------------------------------
+link: https://
+--------------------------------------------------------------------------------------------------------------------
+Screenshot:
+--------------------------------------------------------------------------------------------------------------------
+![1](https://user-images.githubusercontent.com/73923245/212435835-fadc1c15-2ce6-4598-a05e-5716a7a453e0.JPG)
+![2](https://user-images.githubusercontent.com/73923245/212435839-f3f5807a-4a22-4c03-9bd2-dcbf5df28ddc.JPG)
+![3](https://user-images.githubusercontent.com/73923245/212435842-1c6b8c88-9b69-401e-90ac-cd9f655c29c5.JPG)
+![4](https://user-images.githubusercontent.com/73923245/212435843-c8f77462-5bfe-49d1-a1d1-c5c3bfe8e541.JPG)
