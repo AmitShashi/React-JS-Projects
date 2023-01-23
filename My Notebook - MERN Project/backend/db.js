@@ -4,7 +4,7 @@ const mongoose = require('mongoose');
 //mongoose.set('strictQuery', false);
 
 mongoose.set('strictQuery', true); // added by amit to suppress warnings
-const mongoURI = "mongodb+srv://amit:amit@cluster0.6nkx33w.mongodb.net/mynotebook"
+const mongoURI = "env.process.port"
 
 const connectToMongo = () => {
     mongoose.connect(mongoURI, () => {console.log("Connected to Mongo Successfully")})
