@@ -23,6 +23,8 @@ link: https://https://amit-mynotebook.netlify.app
 --------------------------------------------------------------------------------------------------------------------
 Screenshot:
 --------------------------------------------------------------------------------------------------------------------
+![1](https://user-images.githubusercontent.com/73923245/221341755-02d66a48-abc1-4f1a-bf8a-82801fd07e93.JPG)
+![2](https://user-images.githubusercontent.com/73923245/221341762-eeec2996-cffa-4e23-8645-def074d0e05d.JPG)
 ![1](https://user-images.githubusercontent.com/73923245/212435835-fadc1c15-2ce6-4598-a05e-5716a7a453e0.JPG)
 ![3](https://user-images.githubusercontent.com/73923245/212435842-1c6b8c88-9b69-401e-90ac-cd9f655c29c5.JPG)
 ![4](https://user-images.githubusercontent.com/73923245/212435843-c8f77462-5bfe-49d1-a1d1-c5c3bfe8e541.JPG)
